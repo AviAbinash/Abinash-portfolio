@@ -1,4 +1,4 @@
-import img from "../assets/swastikGiri.png";
+
 import imgbg from "../assets/Avi.jpeg";
 
 export const headerData = {
