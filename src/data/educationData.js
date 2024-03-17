@@ -3,8 +3,8 @@ export const educationData = [
     id: 1,
     institution: "biju patnaik university of technology",
     course: "Bachelor's Degree",
-    startYear: "2017",
-    endYear: "2021",
+    startYear: "2016",
+    endYear: "2020",
   },
   // {
   //   id: 2,
